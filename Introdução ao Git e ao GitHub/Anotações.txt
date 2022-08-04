@@ -1,0 +1,28 @@
+********** DOWNLOAD **********
+Link para download do Git: https://git-scm.com/downloads 
+
+********** GIT BASH **********
+O Git Bash é um terminal extendido para otimizar o uso do Git. No Mac, o comando é diferente.
+
+********** COMANDOS **********
+
+ls
+Listar arquivos de uma pasta
+
+ls -a
+Listar todos os arquivos de uma pasta, incluindo os ocultos 
+
+cd (nome da pasta)
+Entra em uma pasta (sem parênteses)
+
+git status
+Checa o status da pasta
+
+git add .
+Adiciona uma pasta para o track
+
+git commit -m “texto”
+Adiciona um comentário ao commit
+
+git push origin main
+Commita
