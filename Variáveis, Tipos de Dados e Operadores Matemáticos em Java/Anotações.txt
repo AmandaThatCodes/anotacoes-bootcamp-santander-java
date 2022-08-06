@@ -1,0 +1,34 @@
+********** VARIÁVEIS **********
+Um espaço na memória do computador, onde se podem guardar valores.
+
+Existem 4 tipos:
+- Instância: objeto
+- Classe: classe
+- Local: dentro de métodos
+- Parâmetro: na assinatura do método
+
+Regras das variáveis:
+- Não devem começar com números
+- $ e _ devem ser evitados
+- Sem espaços
+- Não pode utilizar o nome de uma variável já utilizada como comando no Java
+- Sempre começar com letra minúscula
+- Usar CamelCase (notação camelo)
+
+Caractere = aspas simples '''
+String = aspas duplas ""
+
+********** OPERADORES ARITMÉTICOS **********
+São símbolos especiais quais são capazes de realizar ações específicas em um, foi ou mais operandos e, em seguida, retornar um resultado.
+
+Pós-fixados: exp++ ou exp--
+Prefixado: ++exp ou --exp
+Aritmético: +, -, *, / e %
+Atribuição: =, +=, -=, *=, /= e %=
+
+********** CASTINGS (CONVERSÕES) **********
+É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
+
+Dois tipos
+- Upcast(implífico): promoção de um dado
+- Downcast(explícito): rebaixar uma variável de uma menor capacidade de armazenamento
