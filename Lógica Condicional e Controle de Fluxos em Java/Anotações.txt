@@ -1,0 +1,64 @@
+********** OPERADORES RELACIONAIS **********
+São símbolos especiais quais são capazez de realizar comparações entre determinados
+operandos e, em seguida, retornar um resultado.
+
+Tipos:
+Similaridade: igual, diferente (determinada se um operando é igual ou não é igual ao outro)
+Tamanho: maior, maior igual, menor, menor igual (determinia se um operando é menor/igual ou maior/igual que o outro)
+
+Simbologia:
+Igualdade: ==
+Diferença: !=
+Menor: <
+Menor igual: <=
+Maior: >
+Maior igual: >=
+
+********** OPERADORES LÓGICOS **********
+São símbolos especiais quais são capazes de realizar comparações lógicas entre operandos
+lógicos ou expressões e, em seguida, retornar um resultado.
+
+Tipos:
+Conjunção
+Disjunção
+Disjunção exclusiva
+Negação
+
+CONJUNÇÃO (V / V = V)
+Operação lógica que só é verdadeira quando ambos os operandos ou expressões envolvidas são verdadeiras
+Simbologia: &&
+Terminologia: and(e)
+
+DISJUNÇÃO (F / F = F)
+Operação que só é falsa quando ambos os operandos ou expressões envolvidas são falsos
+Simbologia: ||
+Terminologia: or(ou)
+
+DISJUNÇÃO EXCLUSIVA (V / F = V) (F / V = V)
+Operação que só é verdade quando ambos os operando ou expressões são opostos
+Simbologia: ˆ
+Terminologia: xor
+
+NEGAÇÃO (V = F) (F = V)
+Operação que inverte o valor lógico de um operando ou expressão
+Simbologia: !
+Terminologia: Inversão 
+
+********** ESTRUTURAS DE CONTROLE DE FLUXO **********
+São estruturas que tem a capacidade de direcionar o fluxo de execução do código.
+
+Tipos:
+Decisão: if, if-else, if-else-if, switch (escolha) e operador ternário (bom evitar)
+Repetição: for, while, do while
+Interrupção: break, continue e return
+
+Switch é para valores exatos
+If é para expressões booleanas 
+
+********** BLOCOS DE EXECUÇÃO **********
+É um grupo de 0 ou mais códigos quais trabalham em conjunto para executar uma operação.
+
+Tipos:
+Locais: dentro de métodos
+Estáticos: dentro de classes
+Instância: dentro de classes

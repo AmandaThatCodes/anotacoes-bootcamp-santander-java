@@ -15,3 +15,10 @@ Mensagem: é o ato de solicitar ao método que o mesmo execute. Esta pode ser di
 
 O nome de um método deve ser descritivo e curto, mostrando melhor o seu significado.
 
+Sobrecarga: é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+Sobrecarga x sobrescrita
+
+Retorno:
+É uma instrução de interrupção
+Simbologia: return
+O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto.
