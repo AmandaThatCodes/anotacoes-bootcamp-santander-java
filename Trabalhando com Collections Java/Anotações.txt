@@ -1,0 +1,18 @@
+********** COLLECTION **********
+Collection (framework) é um objeto que agrupa múltiplos elementos (variáveis primitivas ou objetos)
+dentro de uma única unidade.
+
+COMPOSIÇÃO DAS COLLECTIONS
+Interfaces: É um contrato que quando assumido por uma classe deve ser implementado.
+Implementações ou classes: são as materializações, a codificação das interfaces.
+Algoritmos: É uma sequência lógica, finita e definida de instruções que devem ser seguidas para resolver um problema.
+
+********** LISTS **********
+Permite elementos duplicados e garante ordem de inserção. Exemplo: uma lista com vários nomes, incluindo 3 Marias, ou seja, nomes repetidos.
+
+ArrayList: deve ser usado onde mais operações de pesquisa são necessárias
+LinkedList: deve ser usado onde mais operações de inserção e exclusão são necessárias
+
+********** INTERFACE SET **********
+Não permite elementos duplicados
+Não possui índice
